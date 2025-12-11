@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 Hi.
 
 - 🔭 I’m currently working on building an AI-powered stock portfolio tracker.
+- 🌱 I’m currently learning good github practices and python + streamlit. 
 - 🍋 Current favourite: "Lemon Rock Oolong Tea" from ChaHalo.
