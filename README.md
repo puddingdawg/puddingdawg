@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github Page👋
 
 <!--
 **puddingdawg/puddingdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi.
+
+- 🔭 I’m currently working on building an AI-powered stock portfolio tracker.
+- 🍋 Current favourite: "Lemon Rock Oolong Tea" from ChaHalo.
